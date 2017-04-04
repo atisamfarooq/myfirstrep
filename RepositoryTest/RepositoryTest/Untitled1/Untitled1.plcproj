@@ -21,9 +21,6 @@
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="POUs\POU1.TcPOU">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="POUs\POU2.TcPOU">
       <SubType>Code</SubType>
     </Compile>
