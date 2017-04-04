@@ -6,6 +6,7 @@
 VAR
   itest :INT;
   itest2 :INT;
+  itest3 :INT;
 END_VAR
 ]]>
     </Declaration>
