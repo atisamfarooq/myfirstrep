@@ -4,7 +4,8 @@
     <Declaration>
       <![CDATA[PROGRAM MAIN
 VAR
-itest :INT;
+  itest :INT;
+  itest2 :INT;
 END_VAR
 ]]>
     </Declaration>
